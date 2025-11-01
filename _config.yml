@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Smart Meter Monitor Blog"
 description: "B2B Home Energy Management Solutions"
-baseurl: "/iotnews"  # 这里改成 iotnews（你的仓库名）
-url: "https://owonsmart.github.io"  # 这里改成 owonsmart（你的用户名）
+baseurl: "/iotnews"
+url: "https://owonsmart.github.io"
