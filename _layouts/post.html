@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+</head>
+
+<body>
+<header class="header">
+    <a href="{{ site.baseurl }}/" class="logo">{{ site.title }}</a>
+</header>
+
+<main class="content">
+    <article class="post">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
+
+        <div class="post-body">
+            {{ content }}
+        </div>
+    </article>
+</main>
+
+<footer class="footer">
+    <p>© {{ site.time | date: '%Y' }} {{ site.title }} · Powered by GitHub Pages</p>
+</footer>
+</body>
+</html>
