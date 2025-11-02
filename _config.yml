@@ -8,3 +8,11 @@ plugins:
   - jekyll-seo-tag
 plugins:
   - jekyll-sitemap
+logo: /assets/image/ow-logo.png
+
+# Open Graph 默认设置
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/image/og-logo.png
