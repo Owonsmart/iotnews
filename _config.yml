@@ -4,3 +4,5 @@ description: "B2B Home Energy Management Solutions"
 baseurl: "/iotnews"
 url: "https://owonsmart.github.io"
 permalink: /:year/:month/:day/:title.html
+plugins:
+  - jekyll-seo-tag
