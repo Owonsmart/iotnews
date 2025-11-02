@@ -6,3 +6,5 @@ url: "https://owonsmart.github.io"
 permalink: /:year/:month/:day/:title.html
 plugins:
   - jekyll-seo-tag
+plugins:
+  - jekyll-sitemap
