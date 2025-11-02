@@ -3,4 +3,4 @@ title: "Smart Meter Monitor Blog"
 description: "B2B Home Energy Management Solutions"
 baseurl: "/iotnews"
 url: "https://owonsmart.github.io"
-permalink: /:baseurl/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
