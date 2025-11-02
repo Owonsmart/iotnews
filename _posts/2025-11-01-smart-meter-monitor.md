@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Smart Meter Monitor: Transforming Home Energy Data into Business Solutions"
 ---
 **Introduction**  
