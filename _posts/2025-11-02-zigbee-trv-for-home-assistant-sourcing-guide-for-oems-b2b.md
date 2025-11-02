@@ -25,7 +25,9 @@ Integrating with Home Assistant isn't just about pleasing DIYers. It's a strateg
     
 -   **Future-Proofing:** Products that work seamlessly in local-control ecosystems are resilient against cloud service shutdowns and privacy concerns.
     
-![15](https://github.com/user-attachments/assets/2eba108a-87d4-428d-a485-b62013cccae2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2eba108a-87d4-428d-a485-b62013cccae2" alt="15">
+</p>
 
 Unlock zoned heating control with Zigbee TRVs for Home Assistant. This guide for OEMs & integrators covers market trends, technical integrat
 
