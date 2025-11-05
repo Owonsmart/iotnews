@@ -19,8 +19,6 @@ Split-phase electrical systems, typically found in residential and light commerc
   <img src="https://github.com/user-attachments/assets/70856cf1-c1e0-4b03-b743-fb8cb26e26ad" alt="15">
 </p>
 
-WiFi Energy Meter with Tuya | Split-Phase Power Monitor for Business
-
 **How Modern WiFi Energy Meters Solve These Challenges**
 
 Advanced **WiFi energy meter with Tuya smart power monitor clamp** systems address these issues through innovative design and smart technology integration. The OWON split-phase power meter, for instance, features:
