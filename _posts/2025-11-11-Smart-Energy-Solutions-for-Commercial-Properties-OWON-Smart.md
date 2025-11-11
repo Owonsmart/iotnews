@@ -97,7 +97,7 @@ Zigbee's mesh networking capability typically supports 50-100 devices per gatewa
 
 ## **The OWON Smart Advantage: Manufacturing Expertise Meets Commercial Application**
 
-With ISO 9001 certification and two decades of electronics manufacturing experience, OWON Smart brings unique capabilities to commercial energy monitoring projects:
+With ISO 9001 certification and two decades of electronics manufacturing experience, **[OWON Smart ](https://www.owon-smart.com)** brings unique capabilities to commercial energy monitoring projects:
 
 **Precision Manufacturing**
 Our automated production facilities maintain consistent quality across volumes from prototype runs to mass production, with typical CPK values exceeding 1.67 for critical components.
